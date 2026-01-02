@@ -19,15 +19,19 @@ The assembly demonstrates fluid entry and exit piping integration with a hydraul
 🧩 File Description
 
 1. ASSEMBLY MAIN.prt
+
    Master assembly file integrating all sub-assemblies and components.
 
-2. Final assembly.prt / assemblyfinal assembly.prt
+3. Final assembly.prt / assemblyfinal assembly.prt
+
    Consolidated assemblies showing the complete system alignment and fit.
 
-3. Assembly cylinder pipe assembly tube entry.prt
+5. Assembly cylinder pipe assembly tube entry.prt
+
    Entry-side piping assembly connected to the hydraulic cylinder inlet.
 
-4. Assemblycylinder piping tube exit assembly.prt
+7. Assemblycylinder piping tube exit assembly.prt
+
    Exit-side piping assembly for fluid discharge from the cylinder.
 
 ⚙️ Key Features
