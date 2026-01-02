@@ -2,6 +2,7 @@
 Assemblies – CAD Project
 
 📌 Project Overview
+
 This repository contains a complete 3D CAD assembly of a hydraulic cylinder piping system, designed and assembled using Siemens NX.
 
 The project focuses on realistic industrial modeling practices, proper component hierarchy, and accurate assembly constraints suitable for manufacturing-oriented applications.
@@ -64,6 +65,7 @@ The assembly demonstrates fluid entry and exit piping integration with a hydraul
 👤 Author
 
 Ayush Prajapati
+
 Mechanical Engineering | CAD & Design Enthusiast
 Skills: CAD Modeling, Siemens NX, Mechanical Design, Manufacturing Concepts
 
