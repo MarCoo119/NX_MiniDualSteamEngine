@@ -9,14 +9,14 @@ The project focuses on realistic industrial modeling practices, proper component
 
 The assembly demonstrates fluid entry and exit piping integration with a hydraulic cylinder, commonly used in industrial machinery, automation systems, and heavy equipment.
 
-🛠️ Tools & Software Used
+# 🛠️ Tools & Software Used
 
 1. CAD Software: Siemens NX
 2. Modeling Approach: Parametric solid modeling
 3. Assembly Type: Top-down & bottom-up hybrid
 4. File Format: .prt (Siemens NX Part Files)
 
-🧩 File Description
+# 🧩 File Description
 
 1. ASSEMBLY MAIN.prt
 
@@ -43,7 +43,7 @@ The assembly demonstrates fluid entry and exit piping integration with a hydraul
 5. Clean and modular assembly design for easy modification
 6. Suitable for manufacturing, simulation, and design reviews
 
-🎯 Applications
+# 🎯 Applications
 
 1. Hydraulic systems design
 2. Industrial machinery modeling
@@ -51,7 +51,7 @@ The assembly demonstrates fluid entry and exit piping integration with a hydraul
 4. CAD portfolio and academic projects
 5. Learning reference for Siemens NX assemblies
 
-🚀 How to Use
+# 🚀 How to Use
 
 1. Open Siemens NX
 2. Load ASSEMBLY MAIN.prt as the primary file
@@ -59,17 +59,21 @@ The assembly demonstrates fluid entry and exit piping integration with a hydraul
 4. Use Assembly Navigator to explore sub-assemblies
 5. Modify parameters or constraints as needed
 
-📚 Learning Outcomes
+# 📚 Learning Outcomes
 
 1. Advanced assembly management in Siemens NX
 2. Practical understanding of hydraulic system layout
 3. Experience with real-world mechanical component integration
 4. Improved CAD structuring and design intent clarity
 
-👤 Author
+# 👤 Author
 
 Ayush Prajapati
 
 Mechanical Engineering | CAD & Design Enthusiast
 Skills: CAD Modeling, Siemens NX, Mechanical Design, Manufacturing Concepts
+
+# Model Preview
+
+
 
