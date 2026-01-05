@@ -75,5 +75,5 @@ Skills: CAD Modeling, Siemens NX, Mechanical Design, Manufacturing Concepts
 
 # Model Preview
 
-
+<img width="1315" height="736" alt="Snapshot of the dashboard" src="https://github.com/MarCoo119/Blinkit_Dashboard/blob/main/Snapshot%20of%20the%20dashboard1.jpg" />
 
