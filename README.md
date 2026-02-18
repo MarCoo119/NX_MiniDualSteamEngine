@@ -1,79 +1,91 @@
 # MiniDualSteamEngine
-Assemblies – CAD Project
+### CAD Assembly Project (Siemens NX)
 
-# 📌 Project Overview
+---
 
-This repository contains a complete 3D CAD assembly of a hydraulic cylinder piping system, designed and assembled using Siemens NX.
+## 📌 Project Overview
 
-The project focuses on realistic industrial modeling practices, proper component hierarchy, and accurate assembly constraints suitable for manufacturing-oriented applications.
+This project contains a complete 3D CAD assembly of a hydraulic cylinder piping system assembled using **Siemens NX**.
 
-The assembly demonstrates fluid entry and exit piping integration with a hydraulic cylinder, commonly used in industrial machinery, automation systems, and heavy equipment.
+The focus of the project is on realistic industrial assembly practices, proper component hierarchy, and accurate constraint management suitable for manufacturing-oriented workflows.
 
-# 🛠️ Tools & Software Used
+> **Note:** All components were pre-existing parts. This project demonstrates **assembly integration, alignment, and constraint management**, not part modeling.
 
-1. CAD Software: Siemens NX
-2. Modeling Approach: Parametric solid modeling
-3. Assembly Type: Top-down & bottom-up hybrid
-4. File Format: .prt (Siemens NX Part Files)
+The assembly represents fluid entry and exit piping integration with a hydraulic cylinder, commonly used in industrial machinery, automation systems, and heavy equipment.
 
-# 🧩 File Description
+---
 
-1. ASSEMBLY MAIN.prt
+## 🛠️ Tools & Software Used
 
-   Master assembly file integrating all sub-assemblies and components.
+- **CAD Software:** Siemens NX  
+- **Workflow:** Assembly-focused design  
+- **Assembly Method:** Hybrid top-down & bottom-up  
+- **File Format:** `.prt` (Siemens NX Part Files)
 
-3. Final assembly.prt / assemblyfinal assembly.prt
+---
 
-   Consolidated assemblies showing the complete system alignment and fit.
+## 🧩 File Description
 
-5. Assembly cylinder pipe assembly tube entry.prt
+- **ASSEMBLY MAIN.prt**  
+  Master assembly file integrating all components and sub-assemblies.
 
-   Entry-side piping assembly connected to the hydraulic cylinder inlet.
+- **Final assembly.prt / assemblyfinal assembly.prt**  
+  Consolidated assemblies showing complete system alignment.
 
-7. Assemblycylinder piping tube exit assembly.prt
+- **Assembly cylinder pipe assembly tube entry.prt**  
+  Entry-side piping connected to hydraulic cylinder inlet.
 
-   Exit-side piping assembly for fluid discharge from the cylinder.
+- **Assemblycylinder piping tube exit assembly.prt**  
+  Exit-side piping assembly for fluid discharge.
 
-⚙️ Key Features
+---
 
-1. Fully constrained and aligned hydraulic cylinder assembly
-2. Realistic piping layout for fluid entry and exit
-3. Industry-oriented component structuring
-4. Proper use of mates, alignments, and constraints
-5. Clean and modular assembly design for easy modification
-6. Suitable for manufacturing, simulation, and design reviews
+## ⚙️ Key Features
 
-# 🎯 Applications
+- Fully constrained hydraulic cylinder assembly  
+- Realistic industrial piping layout  
+- Structured and modular assembly hierarchy  
+- Professional constraint and alignment workflow  
+- Clean assembly organization for modification and reuse  
+- Suitable for manufacturing review and simulation preparation
 
-1. Hydraulic systems design
-2. Industrial machinery modeling
-3. Manufacturing & assembly planning
-4. CAD portfolio and academic projects
-5. Learning reference for Siemens NX assemblies
+---
 
-# 🚀 How to Use
+## 🎯 Applications
 
-1. Open Siemens NX
-2. Load ASSEMBLY MAIN.prt as the primary file
-3. Ensure all part files are in the same directory
+- Hydraulic system visualization  
+- Industrial machinery assembly planning  
+- Manufacturing workflow study  
+- CAD portfolio demonstration  
+- Academic mechanical design projects
+
+---
+
+## 🚀 How to Use
+
+1. Open **Siemens NX**
+2. Load `ASSEMBLY MAIN.prt`
+3. Keep all `.prt` files in the same directory
 4. Use Assembly Navigator to explore sub-assemblies
-5. Modify parameters or constraints as needed
+5. Modify constraints or structure if needed
 
-# 📚 Learning Outcomes
+---
 
-1. Advanced assembly management in Siemens NX
-2. Practical understanding of hydraulic system layout
-3. Experience with real-world mechanical component integration
-4. Improved CAD structuring and design intent clarity
+## 📚 Learning Outcomes
 
-# 👤 Author
+- Advanced Siemens NX assembly management  
+- Real-world mechanical integration workflow  
+- Practical understanding of hydraulic layouts  
+- Professional assembly structuring  
+- Constraint-driven design logic
 
-Ayush Prajapati
+---
 
+## 👤 Author
+
+**Ayush Prajapati**  
 Mechanical Engineering | CAD & Design Enthusiast
-Skills: CAD Modeling, Siemens NX, Mechanical Design, Manufacturing Concepts
 
-# Model Preview
+**Skills:** Siemens NX, CAD Assembly, Mechanical Design, Manufacturing Concepts
 
-<img width="1315" height="736" alt="Snapshot of the dashboard" src="https://github.com/MarCoo119/NX_MiniDualSteamEngine/blob/main/Screenshot%202026-01-05%20092456.png" />
-
+---
